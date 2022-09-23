@@ -56,14 +56,8 @@ Estilos da página index.html
 .f {
     font-family: '';
 }
-.jogo {
-    display: flex;
-    flex-direction: column;
-
-}
-.hover2 a:hover{
-    text-decoration: none;
-    color: gray;
+.pc {
+    background-color: #6272fd;
 }
 
 
@@ -73,5 +67,17 @@ Estilos da página contato.html
 
 .ml-50 {
     margin-left: 50px;
+}
+/*
+Estilos da página jogo.html
+*/
+
+.jogo {
+    display: flex;
+    flex-direction: column
+}
+
+.hv a:hover{
+    color: gray;
 }
 
